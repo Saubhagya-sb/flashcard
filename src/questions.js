@@ -153,4 +153,114 @@ export const questions = [
         "question": "A patient reported with fever, sore throat, Lymphadenopathy and splenomegaly. Haematological investigations revealed WBC count,2800/cmm with absolute lymphocytosis and 30% abnormal lymphocytes. What may the diagnosis? How will you <u>confirm the diagnosis",
         "summary": "The diagnosis may be infectious mononucleosis, commonly caused by the Epstein-Barr virus (EBV). To confirm the diagnosis, serological tests for EBV-specific antibodies, such as IgM and IgG, can be performed."
     },
+    {
+        "category": "Virology",
+        "question": "A 20 year old boy has come with malaise, low grade fever for several days, followed by sore throat and swollen cervical lymph nodes. He was suspected as a case of infectious mononucleosis. a) Name the causative agent. b) Mention a serological test you will advice for the diagnosis. c) Write two cancers produced by this virus.",
+        "summary": "a) The causative agent is the Epstein-Barr virus (EBV). b) A serological test you will advice for the diagnosis is the heterophile antibody test (Monospot test). c) Two cancers produced by this virus are Burkitt's lymphoma and Hodgkin's lymphoma."
+    },
+    {
+        "category": "Virology",
+        "question": "A 20-year-old female presents with fever, malaise and rash. Rash appears first on trunk then spread to face and limbs. On examination macules, papules and vesicles are seen. A Thick smear of scraping obtained from a vesicle demonstrates multinucleated giant cells. a) What is the most probable diagnosis? b) Name the virus. c) Mention the mode of transmission of this virus.",
+        "summary": "a) The most probable diagnosis is herpes simplex virus (HSV) infection. b) The virus is herpes simplex virus (HSV). c) The mode of transmission of this virus is direct contact with infected lesions or bodily fluids."
+    },
+    {
+        "category": "Virology",
+        "question": "A 30 years old woman has developed fever, maculopapular skin rashes in first trimester of pregnancy. (DU-13Ja) a. What findings on physical examination will help you for clinical diagnosis of measles ? b. What may be the effect of such infection in foetus ? c. Why measles vaccine isn’t given before 9 months of age?",
+        "summary": "a) The most probable diagnosis is measles. b) The effect of such infection in foetus may include congenital measles syndrome, which can cause various developmental abnormalities. c) Measles vaccine isn’t given before 9 months of age because maternal antibodies can interfere with the vaccine's effectiveness."
+    },
+    {
+        "category": "Virology",
+        "question": "A 33 years old lady has a past history of repeated abortion. Which microbial etiolology is to be screened?",
+        "summary": "The microbial etiology to be screened in a case of repeated abortion includes infections caused by Toxoplasma gondii, Listeria monocytogenes, and certain viruses such as cytomegalovirus (CMV) and rubella virus."
+    },
+    {
+        "category": "Virology",
+        "question": "A patient with sore throat & UTI was treated with penicillin. Sore throat got cured but not UTI. What are the possible causative agents causing sore throat and UTI in the patient- explain.",
+        "summary": "The possible causative agents causing sore throat and UTI in the patient include Streptococcus pyogenes (for sore throat) and Escherichia coli (for UTI). Penicillin is effective against S. pyogenes but not always effective against E. coli, which may explain why the sore throat improved while the UTI did not."
+    },
+    {
+        "category": "Virology",
+        "question": "A boy of 8 year old presented with rashes all over the whole body. He had fever for last few days: (DU-14Ja) a) Write the probable viral infections. b) Describe the laboratory diagnosis of any two.",
+        "summary": "a) The probable viral infections include varicella-zoster virus (VZV) and enterovirus. b) The laboratory diagnosis of VZV can be confirmed by PCR or viral culture, while enterovirus can be diagnosed through PCR or serological tests."
+    },
+    {
+        "category": "Virology",
+        "question": "A 10-year-old boy presents with complaints of swelling and tenderness in the region below both ears for the past 2 days. He has fever, headache, and difficulty in chewing food over the same period. a. What may be the clinical diagnosis? b. Which vaccine can prevent this disease? c. Name two complications if this disease untreated.",
+        "summary": "a) The clinical diagnosis is mumps. b) The vaccine that can prevent this disease is the measles, mumps, and rubella (MMR) vaccine. c) Two complications of untreated mumps are orchitis and meningitis."
+    },
+    {
+        "category": "Virology",
+        "question": "A 30-year-old male presents with complaints of fatigue, nausea, and abdominal discomfort for the past 5 days. He also reports a low-grade fever and recent onset of jaundice. He gave history of drinking sugarcane juice and eating street food. (DU-25M) a. Name the organisms responsible for it. b. Mention the serological tests for diagnosis c. Name the measures taken to prevent this condition",
+        "summary": "a) The organisms responsible for it are hepatitis A virus (HAV), hepatitis B virus (HBV), and hepatitis C virus (HCV). b) Serological tests for diagnosis include anti-HAV IgM, HBsAg, and anti-HCV antibodies. c) Measures taken to prevent this condition include vaccination against HAV and HBV, proper hygiene, and avoiding risky behaviors."
+    },
+    {
+        "category": "Virology",
+        "question": "A 36 yr-old man was tested for Hepatitis B seromarkers and found HBsAg negative. HBeAg negative. HBeAb IgM negative, Anti-Hbs positive, Anti-Hbe positive. (DU-15Ja) a. Is this a case of hepatitis B virus past infection or post vaccination with HBV vaccine? Justify your answer.",
+        "summary": "This is a case of post-vaccination with HBV vaccine. The presence of Anti-Hbs positive and Anti-Hbe positive antibodies indicates immunity due to vaccination, not active infection."
+    },
+    {
+        "category": "Virology",
+        "question": "A patient was diagnosed as suffering from HBV infection by detection of high bilirubin level HBsAg and AntiHBc IgM in his serum. After one year his blood was tested and found to be positive for HBsAg. (DU-13Ju) a) Write your diagnosis b) State the possible outcome of the above condition. c) Which seromarker you will test further to evaluate the patient and why?",
+        "summary": "a) The diagnosis is chronic hepatitis B virus infection. b) The possible outcome of the above condition includes progression to cirrhosis or hepatocellular carcinoma. c) Further testing for HBV DNA levels would be necessary to evaluate the patient and determine the appropriate treatment approach."
+    },
+    {
+        "category": "Virology",
+        "question": "In a medical college hostel several students suddenly developed anorexia, fever, upper abdominal pain and jaundice. (DU-12Ju) a. Name the probable etiological agents that may cause above condition. b. Name the serological tests you like to perform to diagnose the case in the laboratory. c. State the measures to prevent such infection in other students.",
+        "summary": "a) The probable etiological agents are hepatitis A virus (HAV), hepatitis B virus (HBV), and hepatitis C virus (HCV). b) Serological tests include anti-HAV IgM, HBsAg, and anti-HCV antibodies. c) Measures to prevent such infection include vaccination, proper hygiene, and avoiding risky behaviors."
+    },
+    {
+        "category": "Virology",
+        "question": "In a medical college hostel 45 students developed fever with upper abdominal pain. On the examination all had a jaundice. Name probable etiological agents that may cause the above condition. Name the serological test you like to perform to diagnose the case in the laboratory",
+        "summary": "Probable etiological agents: Hepatitis A virus (HAV),Hepatitis E virus (HEV) Serological tests:Anti-HAV IgM → for Hepatitis A,Anti-HEV IgM → for Hepatitis E"
+    },
+    {
+        "category": "Virology",
+        "question": "Blood test report of Mr. Ali shows HbsAg positive, antiHBsAg negative and HBcIgG negative. Do you think that the person is infected by HBV? Justify your answer.",
+        "summary": "Yes, the person is likely infected by HBV. The presence of HBsAg indicates an active infection, while the absence of anti-HBsAg and HBcIgG suggests that the person has not developed immunity or has not been exposed to the virus for a long time."
+    },
+    {
+        "category": "Virology",
+        "question": "A patient with H/O RA 5 years back received 2 units of blood transfusion .now he complains of fever, yellow coloration of conjunctiva and dark urine. What may be the probable diagnosis? How will you confirm the diagnosis by laboratory in investigations?",
+        "summary": "The probable diagnosis is hepatitis C virus (HCV) infection, likely acquired through blood transfusion. To confirm the diagnosis, serological tests for anti-HCV antibodies can be performed, and HCV RNA testing can be done to detect the presence of the virus in the blood."
+    },
+    {
+        "category": "Virology",
+        "question": "A 12 year old boy has developed fever with hemorrhagic rash on his body for 5 days followed by shock. It seems to be a case of mosquito borne viral disease. a. What is the probable diagnosis? b. How it is diagnosed in the laboratory? c.Name the causative virus. d. Name one other mosquito borne viral disease.",
+        "summary": "a. The probable diagnosis is dengue hemorrhagic fever. b. It is diagnosed in the laboratory through serological tests for dengue-specific IgM and IgG antibodies, as well as PCR for dengue virus RNA. c. The causative virus is the dengue virus, which belongs to the Flaviviridae family. d. One other mosquito-borne viral disease is chikungunya."
+    },
+    {
+        "category": "Virology",
+        "question": "A young 12 years old boy presented with high fever, skin rash and severe bone pain for three days. His routine blood examination revealed thrombocytopenia Answer the following questions: a. State thy probable diagnosis b. Name the organism responsible for the above diagnosis. c. Name two tests for the sero-diagnosis of the condition. d. Name two complications of the condition you mentioned above.",
+        "summary": "a. The probable diagnosis is dengue fever. b. The organism responsible is the dengue virus. c. Two tests for sero-diagnosis are NS1 antigen test and IgM/IgG antibody tests. d. Two complications are dengue hemorrhagic fever and dengue shock syndrome."
+    },
+    {
+        "category": "Virology",
+        "question": "A 35-year-old man is admitted with complaints of unexplained fever, progressive loss of weight, persistent diarrhea and generalized lymphadenopathy for last 6 months. The patient gave a history of exposure. (DU-24M) i) Name the probable viral cause for the above condition. ii) Mention the type of this virus. iii) Enumerate one screening and one confirmatory test for the viral diagnosis of this case. ",
+        "summary": "i) The probable viral cause for the above condition is Human Immunodeficiency Virus (HIV). ii) HIV is a retrovirus that primarily targets the immune system, specifically CD4+ T cells. iii) One screening test for HIV diagnosis is the Enzyme-Linked Immunosorbent Assay (ELISA) for HIV antibodies, and one confirmatory test is the Western blot assay or an HIV RNA test to detect viral load."
+    },
+    {
+        "category": "Virology",
+        "question": "A young presented with unexplained fever, repeated candidal infection of mouth, weight loss and diarrhea for last 3 months. He has a history of exposure. A provisional diagnosis HIV infection was made. (DU-11/10Ja, 08Ju) a. Name 2 serological tests to diagnose the HIV infection. b. Name a test to confirm the HIV infection.",
+        "summary": "a. Two serological tests to diagnose HIV infection are the Enzyme-Linked Immunosorbent Assay (ELISA) for HIV antibodies and the Rapid Diagnostic Test (RDT) for HIV. b. A test to confirm HIV infection is the Western blot assay or an HIV RNA test to detect viral load."
+    },
+    {
+        "category": "Virology",
+        "question": "A 25 years old young man presented weight loss, low grade fever, lymphadenopathy for 3 months. He has a history of exposure 2 years ago. He was provisionally diagnosed as a case of AIDS. Answer the following questions. (DU-16Ju) a. Name the organism responsible for the above condition b. Name two tests for the sero-diagnosis of the condition c. Name a blood test to monitor the progress of the disease d. Name two complications of AIDS.",
+        "summary": "a. The organism responsible for the above condition is the Human Immunodeficiency Virus (HIV). b. Two tests for the sero-diagnosis of the condition are the Enzyme-Linked Immunosorbent Assay (ELISA) for HIV antibodies and the Rapid Diagnostic Test (RDT) for HIV. c. A blood test to monitor the progress of the disease is the CD4+ T cell count. d. Two complications of AIDS are opportunistic infections and certain types of cancer."
+    },
+    {
+        "category": "Virology",
+        "question": "A baby born with microcephaly, deafness, cataract and ventricular septal defect. His mother gave history of development of maculo-papular rash during first trimester of pregnancy. (DU-19M) a. Name the organism responsible for the above condition. b. Name the tests to diagnose it? c. How this condition can be prevented? d. Name two other infections where similar type of rash occurs.",
+        "summary": "a. The organism responsible for the above condition is the Rubella virus. b. The tests to diagnose it are the Rubella IgM and IgG antibody tests. c. This condition can be prevented through vaccination with the MMR (Measles, Mumps, Rubella) vaccine. d. Two other infections where similar type of rash occurs are measles and chickenpox."
+    },
+    {
+        "category": "Virology",
+        "question": "A 30 year old lady gave birth to a baby having cataract with ventricular septal defect. She gave history of low grade fever with rash on her trunk and posterior auricular lymphadenopathy during first trimester of pregnancy. (DU-18M) a) Write the probable diagnosis. b) How it is diagnosed during pregnancy? c) How this condition can be prevented?",
+        "summary": "a. The probable diagnosis is Congenital Rubella Syndrome. b. It can be diagnosed during pregnancy through maternal serology and fetal ultrasound. c. This condition can be prevented through vaccination with the MMR (Measles, Mumps, Rubella) vaccine."
+    },
+    {
+        "category": "Virology",
+        "question": "A newborn baby has cataract and ventricular septal defect. His mother had history of development of maculo-papular rash during first trimester of pregnancy. Answer the following questions. (DU-17Ja) a. Name the organism responsible for above conditions. b. How will you diagnose it? c. How this condition can be prevented. d. Name two other infections where similar type of rash occurs.",
+        "summary": "a. The organism responsible for the above condition is the Rubella virus. b. It can be diagnosed through serological tests for Rubella IgM and IgG antibodies. c. This condition can be prevented through vaccination with the MMR (Measles, Mumps, Rubella) vaccine. d. Two other infections where similar type of rash occurs are measles and chickenpox."
+    }
 ]
